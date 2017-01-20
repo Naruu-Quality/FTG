@@ -1,0 +1,1 @@
+_this allowDamage false; _this enableSimulation false; _this addAction[localize""STR_MAR_Gold_Bars_Buyer"",life_fnc_virt_menu,""gold""];

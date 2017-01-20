@@ -1,0 +1,1 @@
+_this allowDamage false; _this enableSimulation false; _this addAction[localize""STR_MAR_Salt_Trader"",life_fnc_virt_menu,""salt""];

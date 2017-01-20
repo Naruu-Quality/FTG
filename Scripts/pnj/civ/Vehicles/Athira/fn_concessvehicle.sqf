@@ -1,0 +1,1 @@
+_this enableSimulation false; _this allowDamage false; _this addAction[localize "STR_MAR_Car_shop",life_fnc_vehicleShopMenu,["civ_car",civilian,"civ_car_3","civ","Bruce's New & Used Auto's"]];

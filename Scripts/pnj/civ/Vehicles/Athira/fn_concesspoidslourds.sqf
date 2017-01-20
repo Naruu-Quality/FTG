@@ -1,0 +1,1 @@
+_this enableSimulation false; _this allowDamage false; _this addAction[localize"STR_MAR_Truck_Shop",life_fnc_vehicleShopMenu,["civ_truck",civilian,["civ_truck_3_1"],"civ","Bruce's New & Used Trucks"]];

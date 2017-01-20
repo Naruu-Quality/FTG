@@ -1,0 +1,1 @@
+_this allowDamage false; _this enableSimulation false; _this addAction[localize"STR_ChopShop_Title",life_fnc_chopShopMenu,"chop_shop_1"];

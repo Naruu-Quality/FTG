@@ -1,0 +1,1 @@
+_this enableSimulation false; _this allowDamage false; _this addAction[localize "STR_MAR_General_Store",life_fnc_weaponShopMenu,"genstore"];

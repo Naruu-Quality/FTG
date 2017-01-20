@@ -1,0 +1,1 @@
+_this enableSimulation false; _this allowDamage false; _this addAction[localize""STR_MAR_GoKart_Shop"",life_fnc_vehicleShopMenu,[""kart_shop"",civilian,""kart_shop_1"",""civ"",""Bobby's Kart Shack""]]; _this addAction[localize""STR_Shops_C_Kart"",life_fnc_clothingMenu,""kart""];
